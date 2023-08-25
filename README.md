@@ -1,5 +1,5 @@
 # primal-neurosity
-***This repo was created for a hackathon for testing not be used for any resdon***
+***This repo was created for a hackathon for testing not be used for any reason***
 
 Mind Optimizer for Peak Performance
 
