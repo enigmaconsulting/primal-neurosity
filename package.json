@@ -1,0 +1,23 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "My first application using the Neurosity SDK",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "neurosity"
+  ],
+  "author": "Alan Helmick",
+  "license": "MIT",
+  "dependencies": {
+    "@neurosity/sdk": "^6.5.9",
+    "dotenv": "^16.3.1",
+    "find-config": "^1.0.0",
+    "mariadb": "^3.2.0",
+    "node": "^20.5.1",
+    "pg": "^8.11.3"
+  }
+}
