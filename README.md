@@ -7,3 +7,8 @@ https://github.com/enigmaconsulting/primal-neurosity/assets/16673226/973f7cb4-a0
 
 Primal
 Mind Optimizer for Peak Performance
+
+
+
+https://github.com/enigmaconsulting/primal-neurosity/assets/16673226/59ab482c-8f14-42ce-ab11-ae857da31851
+
