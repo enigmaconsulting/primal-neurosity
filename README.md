@@ -1,7 +1,7 @@
 # primal-neurosity
 Mind Optimizer for Peak Performance
 
-![Primal title](https://github.com/enigmaconsulting/primal-neurosity/assets/16673226/96d3e4e4-26fe-40f8-9cf3-32e4627d0261)
+![Primal title](https://github.com/enigmaconsulting/primal-neurosity/assets/16673226/ff16a21f-7902-4fa2-bda5-9ab3f8e0b1d0)
 
 Primal
 Mind Optimizer for Peak Performance
@@ -14,5 +14,8 @@ The feedback and learning mechanisms train themselves to understand when and why
 
 The training, medical and overall health related benefits are numerous.  Find your "peak" state and get "in the zone" at will, with training and support from Neurosity and Primal.
 
-https://github.com/enigmaconsulting/primal-neurosity/assets/16673226/59ab482c-8f14-42ce-ab11-ae857da31851
+
+
+
+https://github.com/enigmaconsulting/primal-neurosity/assets/16673226/6d8a9090-ccdd-420f-b83b-625852b930ce
 
