@@ -1,4 +1,6 @@
 # primal-neurosity
+***This repo was created for a hackathon for testing not be used for any resdon***
+
 Mind Optimizer for Peak Performance
 
 ![Primal title](https://github.com/enigmaconsulting/primal-neurosity/assets/16673226/ff16a21f-7902-4fa2-bda5-9ab3f8e0b1d0)
